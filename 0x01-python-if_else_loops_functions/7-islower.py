@@ -1,4 +1,5 @@
-slower.py
+#!/usr/bin/python3
+# 7-islower.py
 
 
 def islower(c):
@@ -7,4 +8,3 @@ def islower(c):
         return True
     else:
         return False
-
